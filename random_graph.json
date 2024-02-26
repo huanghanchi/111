@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "bioovpyh",
+      "symbolSize": 3.750969,
+      "x": 289.99061,
+      "y": -129.47263,
+      "value": 35.546435,
+      "category": 2,
+      "date": "2023-04-26"
+    },
+    {
+      "id": "1",
+      "name": "ickfncak",
+      "symbolSize": 16.713794,
+      "x": 221.72716,
+      "y": -272.15133,
+      "value": 23.766005,
+      "category": 1,
+      "date": "2023-11-17"
+    },
+    {
+      "id": "2",
+      "name": "slcqfcel",
+      "symbolSize": 14.525559,
+      "x": 51.71086,
+      "y": -148.88132,
+      "value": 36.286102,
+      "category": 1,
+      "date": "2023-05-16"
+    },
+    {
+      "id": "3",
+      "name": "xgxkxmsf",
+      "symbolSize": 3.940548,
+      "x": 460.9853,
+      "y": 216.65191,
+      "value": 45.306991,
+      "category": 2,
+      "date": "2024-01-22"
+    },
+    {
+      "id": "4",
+      "name": "nfrllqco",
+      "symbolSize": 9.038326,
+      "x": 254.78928,
+      "y": -492.29016,
+      "value": 8.342476,
+      "category": 1,
+      "date": "2023-06-01"
+    },
+    {
+      "id": "5",
+      "name": "lvwfstvb",
+      "symbolSize": 1.833804,
+      "x": -62.87465,
+      "y": -497.33825,
+      "value": 19.372471,
+      "category": 0,
+      "date": "2023-09-24"
+    },
+    {
+      "id": "6",
+      "name": "tnfxnxuw",
+      "symbolSize": 1.854554,
+      "x": -287.99975,
+      "y": 207.03534,
+      "value": 10.110565,
+      "category": 0,
+      "date": "2023-04-19"
+    },
+    {
+      "id": "7",
+      "name": "ngtwklvs",
+      "symbolSize": 19.909914,
+      "x": -213.86537,
+      "y": 135.14579,
+      "value": 26.617874,
+      "category": 0,
+      "date": "2023-09-12"
+    },
+    {
+      "id": "8",
+      "name": "ocalmacu",
+      "symbolSize": 2.470611,
+      "x": 96.73237,
+      "y": -475.14365,
+      "value": 5.535604,
+      "category": 2,
+      "date": "2023-12-08"
+    },
+    {
+      "id": "9",
+      "name": "sbbvgmko",
+      "symbolSize": 8.858397,
+      "x": -107.2697,
+      "y": -69.27647,
+      "value": 15.799634,
+      "category": 2,
+      "date": "2023-08-30"
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "6",
+      "value": 2
+    },
+    {
+      "source": "6",
+      "target": "6",
+      "value": 7
+    },
+    {
+      "source": "9",
+      "target": "6",
+      "value": 7
+    },
+    {
+      "source": "8",
+      "target": "5",
+      "value": 1
+    },
+    {
+      "source": "6",
+      "target": "8",
+      "value": 3
+    },
+    {
+      "source": "6",
+      "target": "1",
+      "value": 1
+    },
+    {
+      "source": "9",
+      "target": "2",
+      "value": 6
+    },
+    {
+      "source": "6",
+      "target": "9",
+      "value": 6
+    },
+    {
+      "source": "9",
+      "target": "9",
+      "value": 7
+    },
+    {
+      "source": "2",
+      "target": "9",
+      "value": 10
+    },
+    {
+      "source": "9",
+      "target": "8",
+      "value": 1
+    },
+    {
+      "source": "0",
+      "target": "9",
+      "value": 9
+    },
+    {
+      "source": "7",
+      "target": "9",
+      "value": 3
+    },
+    {
+      "source": "7",
+      "target": "0",
+      "value": 6
+    },
+    {
+      "source": "7",
+      "target": "4",
+      "value": 5
+    }
+  ]
+}
