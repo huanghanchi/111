@@ -1,0 +1,1435 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "uobyqrjd",
+      "symbolSize": 2.889697,
+      "x": -1243.549975,
+      "y": 60,
+      "value": 14.90005,
+      "category": 8,
+      "date": "2020-09-25"
+    },
+    {
+      "id": "1",
+      "name": "khhlbjmv",
+      "symbolSize": 6.023599,
+      "x": -1228.903847,
+      "y": 120,
+      "value": 36.192306,
+      "category": 0,
+      "date": "2020-09-29"
+    },
+    {
+      "id": "2",
+      "name": "txhjcbhm",
+      "symbolSize": 11.222717,
+      "x": -1322.796948,
+      "y": 40,
+      "value": 40.406104,
+      "category": 3,
+      "date": "2020-06-25"
+    },
+    {
+      "id": "3",
+      "name": "yhiuuddt",
+      "symbolSize": 10.954768,
+      "x": -1497.4622535,
+      "y": 0,
+      "value": 25.075493,
+      "category": 1,
+      "date": "2020-01-10"
+    },
+    {
+      "id": "4",
+      "name": "gtxlmywg",
+      "symbolSize": 1.161215,
+      "x": -1361.4362425,
+      "y": 100,
+      "value": 25.127515,
+      "category": 7,
+      "date": "2020-05-25"
+    },
+    {
+      "id": "5",
+      "name": "asqvghbt",
+      "symbolSize": 14.808261,
+      "x": -1497.82551,
+      "y": 0,
+      "value": 4.34898,
+      "category": 1,
+      "date": "2020-01-20"
+    },
+    {
+      "id": "6",
+      "name": "phmjaked",
+      "symbolSize": 2.86255,
+      "x": -1386.13815,
+      "y": 60,
+      "value": 3.7237,
+      "category": 8,
+      "date": "2020-05-11"
+    },
+    {
+      "id": "7",
+      "name": "ljrvewui",
+      "symbolSize": 3.740938,
+      "x": -1271.888614,
+      "y": 80,
+      "value": 18.222772,
+      "category": 6,
+      "date": "2020-08-26"
+    },
+    {
+      "id": "8",
+      "name": "qrtcbtyx",
+      "symbolSize": 2.610144,
+      "x": -1494.5028345,
+      "y": 20,
+      "value": 46.994331,
+      "category": 4,
+      "date": "2020-01-02"
+    },
+    {
+      "id": "9",
+      "name": "lewlqjww",
+      "symbolSize": 3.706631,
+      "x": -1271.4697095,
+      "y": 40,
+      "value": 13.060581,
+      "category": 3,
+      "date": "2020-08-29"
+    },
+    {
+      "id": "10",
+      "name": "dcwresmr",
+      "symbolSize": 14.121952,
+      "x": -1265.111331,
+      "y": 40,
+      "value": 1.777338,
+      "category": 3,
+      "date": "2020-09-10"
+    },
+    {
+      "id": "11",
+      "name": "vfrqtgye",
+      "symbolSize": 11.182527,
+      "x": -1377.4779815,
+      "y": 120,
+      "value": 21.044037,
+      "category": 0,
+      "date": "2020-05-11"
+    },
+    {
+      "id": "12",
+      "name": "zrebsxyk",
+      "symbolSize": 19.108474,
+      "x": -1426.371916,
+      "y": 40,
+      "value": 45.256168,
+      "category": 3,
+      "date": "2020-03-11"
+    },
+    {
+      "id": "13",
+      "name": "gnwbytyu",
+      "symbolSize": 15.722039,
+      "x": -1137.394158,
+      "y": 80,
+      "value": 49.211684,
+      "category": 6,
+      "date": "2020-12-23"
+    },
+    {
+      "id": "14",
+      "name": "qxlietva",
+      "symbolSize": 5.312133,
+      "x": -1211.131993,
+      "y": 140,
+      "value": 31.736014,
+      "category": 5,
+      "date": "2020-10-19"
+    },
+    {
+      "id": "15",
+      "name": "cwheewyy",
+      "symbolSize": 5.129177,
+      "x": -1281.9805095,
+      "y": 20,
+      "value": 26.038981,
+      "category": 4,
+      "date": "2020-08-12"
+    },
+    {
+      "id": "16",
+      "name": "hcnxdjne",
+      "symbolSize": 9.915564,
+      "x": -1425.1246845,
+      "y": 140,
+      "value": 5.750631,
+      "category": 5,
+      "date": "2020-04-01"
+    },
+    {
+      "id": "17",
+      "name": "ebhusyxr",
+      "symbolSize": 19.749563,
+      "x": -1463.715858,
+      "y": 20,
+      "value": 46.568284,
+      "category": 4,
+      "date": "2020-02-02"
+    },
+    {
+      "id": "18",
+      "name": "lkkkukmg",
+      "symbolSize": 4.437758,
+      "x": -1437.1103355,
+      "y": 0,
+      "value": 19.779329,
+      "category": 1,
+      "date": "2020-03-13"
+    },
+    {
+      "id": "19",
+      "name": "uamqrlxy",
+      "symbolSize": 18.716526,
+      "x": -1174.646877,
+      "y": 100,
+      "value": 10.706246,
+      "category": 7,
+      "date": "2020-12-05"
+    },
+    {
+      "id": "20",
+      "name": "lczjpfzq",
+      "symbolSize": 1.69913,
+      "x": -1162.4701775,
+      "y": 80,
+      "value": 1.059645,
+      "category": 6,
+      "date": "2020-12-22"
+    },
+    {
+      "id": "21",
+      "name": "swufqeeb",
+      "symbolSize": 12.752841,
+      "x": -1509.862024,
+      "y": 0,
+      "value": 16.275952,
+      "category": 1,
+      "date": "2020-01-02"
+    },
+    {
+      "id": "22",
+      "name": "eidfrbym",
+      "symbolSize": 5.044588,
+      "x": -1273.944546,
+      "y": 140,
+      "value": 24.110908,
+      "category": 5,
+      "date": "2020-08-21"
+    },
+    {
+      "id": "23",
+      "name": "yvhbzvie",
+      "symbolSize": 6.358469,
+      "x": -1328.9895295,
+      "y": 140,
+      "value": 28.020941,
+      "category": 5,
+      "date": "2020-06-25"
+    },
+    {
+      "id": "24",
+      "name": "yjkpgzzd",
+      "symbolSize": 13.316708,
+      "x": -1473.490866,
+      "y": 0,
+      "value": 13.018268,
+      "category": 1,
+      "date": "2020-02-09"
+    },
+    {
+      "id": "25",
+      "name": "fdycuuje",
+      "symbolSize": 10.539353,
+      "x": -1370.3830595,
+      "y": 0,
+      "value": 35.233881,
+      "category": 1,
+      "date": "2020-05-11"
+    },
+    {
+      "id": "26",
+      "name": "qrtrdkdq",
+      "symbolSize": 3.448838,
+      "x": -1262.497977,
+      "y": 60,
+      "value": 27.004046,
+      "category": 8,
+      "date": "2020-08-31"
+    },
+    {
+      "id": "27",
+      "name": "pavawvcb",
+      "symbolSize": 11.369887,
+      "x": -1325.549196,
+      "y": 140,
+      "value": 16.901608,
+      "category": 5,
+      "date": "2020-07-04"
+    },
+    {
+      "id": "28",
+      "name": "fmyxwaly",
+      "symbolSize": 7.781583,
+      "x": -1441.6954075,
+      "y": 140,
+      "value": 6.609185,
+      "category": 5,
+      "date": "2020-03-15"
+    },
+    {
+      "id": "29",
+      "name": "khlknbho",
+      "symbolSize": 2.288441,
+      "x": -1478.8184345,
+      "y": 80,
+      "value": 14.363131,
+      "category": 6,
+      "date": "2020-02-03"
+    },
+    {
+      "id": "30",
+      "name": "vccyypou",
+      "symbolSize": 5.710549,
+      "x": -1503.2035345,
+      "y": 40,
+      "value": 9.592931,
+      "category": 3,
+      "date": "2020-01-12"
+    },
+    {
+      "id": "31",
+      "name": "dnzpzblv",
+      "symbolSize": 10.425945,
+      "x": -1200.2920215,
+      "y": 160,
+      "value": 23.415957,
+      "category": 2,
+      "date": "2020-11-03"
+    },
+    {
+      "id": "32",
+      "name": "asqynxrt",
+      "symbolSize": 12.288375,
+      "x": -1500.324029,
+      "y": 80,
+      "value": 21.351942,
+      "category": 6,
+      "date": "2020-01-09"
+    },
+    {
+      "id": "33",
+      "name": "ekmevtns",
+      "symbolSize": 9.247593,
+      "x": -1429.296233,
+      "y": 80,
+      "value": 17.407534,
+      "category": 6,
+      "date": "2020-03-22"
+    },
+    {
+      "id": "34",
+      "name": "ufvhilwp",
+      "symbolSize": 7.896343,
+      "x": -1455.9378625,
+      "y": 160,
+      "value": 24.124275,
+      "category": 2,
+      "date": "2020-02-21"
+    },
+    {
+      "id": "35",
+      "name": "ldmnhene",
+      "symbolSize": 2.129467,
+      "x": -1472.430951,
+      "y": 20,
+      "value": 31.138098,
+      "category": 4,
+      "date": "2020-02-01"
+    },
+    {
+      "id": "36",
+      "name": "pmnqbsqq",
+      "symbolSize": 8.849699,
+      "x": -1248.654538,
+      "y": 80,
+      "value": 26.690924,
+      "category": 6,
+      "date": "2020-09-14"
+    },
+    {
+      "id": "37",
+      "name": "lmkrgdhw",
+      "symbolSize": 17.916092,
+      "x": -1239.782046,
+      "y": 60,
+      "value": 26.435908,
+      "category": 8,
+      "date": "2020-09-23"
+    },
+    {
+      "id": "38",
+      "name": "aflkaibr",
+      "symbolSize": 11.294377,
+      "x": -1312.41468,
+      "y": 120,
+      "value": 19.17064,
+      "category": 0,
+      "date": "2020-07-16"
+    },
+    {
+      "id": "39",
+      "name": "tbqwhktu",
+      "symbolSize": 3.848775,
+      "x": -1294.61988,
+      "y": 120,
+      "value": 4.76024,
+      "category": 0,
+      "date": "2020-08-10"
+    },
+    {
+      "id": "40",
+      "name": "uevjlcrt",
+      "symbolSize": 5.414412,
+      "x": -1477.840668,
+      "y": 40,
+      "value": 48.318664,
+      "category": 3,
+      "date": "2020-01-18"
+    },
+    {
+      "id": "41",
+      "name": "ybiidnrs",
+      "symbolSize": 7.220472,
+      "x": -1293.4570105,
+      "y": 80,
+      "value": 1.085979,
+      "category": 6,
+      "date": "2020-08-13"
+    },
+    {
+      "id": "42",
+      "name": "wljeviqj",
+      "symbolSize": 1.276165,
+      "x": -1201.588216,
+      "y": 160,
+      "value": 40.823568,
+      "category": 2,
+      "date": "2020-10-24"
+    },
+    {
+      "id": "43",
+      "name": "vdaclzyk",
+      "symbolSize": 3.799996,
+      "x": -1252.2207055,
+      "y": 140,
+      "value": 39.558589,
+      "category": 5,
+      "date": "2020-09-04"
+    },
+    {
+      "id": "44",
+      "name": "opmcitxm",
+      "symbolSize": 16.643588,
+      "x": -1199.3949885,
+      "y": 140,
+      "value": 23.210023,
+      "category": 5,
+      "date": "2020-11-04"
+    },
+    {
+      "id": "45",
+      "name": "xnfvaxgp",
+      "symbolSize": 4.821253,
+      "x": -1171.6159435,
+      "y": 100,
+      "value": 44.768113,
+      "category": 7,
+      "date": "2020-11-21"
+    },
+    {
+      "id": "46",
+      "name": "epkwwjdi",
+      "symbolSize": 18.530115,
+      "x": -1156.298496,
+      "y": 80,
+      "value": 11.403008,
+      "category": 6,
+      "date": "2020-12-23"
+    },
+    {
+      "id": "47",
+      "name": "cibytfku",
+      "symbolSize": 16.331023,
+      "x": -1217.4891695,
+      "y": 140,
+      "value": 25.021661,
+      "category": 5,
+      "date": "2020-10-16"
+    },
+    {
+      "id": "48",
+      "name": "ivdnjity",
+      "symbolSize": 14.869825,
+      "x": -1477.525483,
+      "y": 100,
+      "value": 40.949034,
+      "category": 7,
+      "date": "2020-01-22"
+    },
+    {
+      "id": "49",
+      "name": "rbmmodmr",
+      "symbolSize": 10.325402,
+      "x": -1385.906112,
+      "y": 120,
+      "value": 24.187776,
+      "category": 0,
+      "date": "2020-05-01"
+    },
+    {
+      "id": "50",
+      "name": "ftmxaktc",
+      "symbolSize": 15.627965,
+      "x": -1456.5748325,
+      "y": 60,
+      "value": 18.850335,
+      "category": 8,
+      "date": "2020-02-23"
+    },
+    {
+      "id": "51",
+      "name": "cttqoami",
+      "symbolSize": 14.175313,
+      "x": -1182.552987,
+      "y": 140,
+      "value": 24.894026,
+      "category": 5,
+      "date": "2020-11-20"
+    },
+    {
+      "id": "52",
+      "name": "vhdqwrui",
+      "symbolSize": 19.571116,
+      "x": -1362.644519,
+      "y": 40,
+      "value": 6.710962,
+      "category": 3,
+      "date": "2020-06-02"
+    },
+    {
+      "id": "53",
+      "name": "qqxzpwzv",
+      "symbolSize": 2.148649,
+      "x": -1374.067107,
+      "y": 20,
+      "value": 43.865786,
+      "category": 4,
+      "date": "2020-05-03"
+    },
+    {
+      "id": "54",
+      "name": "rkupwpxa",
+      "symbolSize": 2.669671,
+      "x": -1416.48011,
+      "y": 60,
+      "value": 41.03978,
+      "category": 8,
+      "date": "2020-03-23"
+    },
+    {
+      "id": "55",
+      "name": "bkzoidac",
+      "symbolSize": 6.498003,
+      "x": -1352.7803365,
+      "y": 100,
+      "value": 22.439327,
+      "category": 7,
+      "date": "2020-06-04"
+    },
+    {
+      "id": "56",
+      "name": "zxcjcgqx",
+      "symbolSize": 11.037599,
+      "x": -1410.7845855,
+      "y": 0,
+      "value": 6.430829,
+      "category": 1,
+      "date": "2020-04-15"
+    },
+    {
+      "id": "57",
+      "name": "sxyzeatf",
+      "symbolSize": 13.543945,
+      "x": -1246.773213,
+      "y": 100,
+      "value": 14.453574,
+      "category": 7,
+      "date": "2020-09-22"
+    },
+    {
+      "id": "58",
+      "name": "nkxpbbpq",
+      "symbolSize": 16.196079,
+      "x": -1195.698672,
+      "y": 120,
+      "value": 20.602656,
+      "category": 0,
+      "date": "2020-11-09"
+    },
+    {
+      "id": "59",
+      "name": "lhxczcba",
+      "symbolSize": 9.158422,
+      "x": -1517.749661,
+      "y": 140,
+      "value": 2.500678,
+      "category": 5,
+      "date": "2020-01-01"
+    },
+    {
+      "id": "60",
+      "name": "skcetaqy",
+      "symbolSize": 12.782366,
+      "x": -1408.259961,
+      "y": 0,
+      "value": 49.480078,
+      "category": 1,
+      "date": "2020-03-27"
+    },
+    {
+      "id": "61",
+      "name": "erkzmgjy",
+      "symbolSize": 16.663946,
+      "x": -1198.195901,
+      "y": 80,
+      "value": 1.608198,
+      "category": 6,
+      "date": "2020-11-16"
+    },
+    {
+      "id": "62",
+      "name": "nbzlxwrc",
+      "symbolSize": 4.501466,
+      "x": -1257.2939965,
+      "y": 120,
+      "value": 49.412007,
+      "category": 0,
+      "date": "2020-08-25"
+    },
+    {
+      "id": "63",
+      "name": "cfpuobem",
+      "symbolSize": 17.218802,
+      "x": -1370.507297,
+      "y": 100,
+      "value": 46.985406,
+      "category": 7,
+      "date": "2020-05-05"
+    },
+    {
+      "id": "64",
+      "name": "mggtiawa",
+      "symbolSize": 6.340337,
+      "x": -1503.1869824999999,
+      "y": 80,
+      "value": 25.626035,
+      "category": 6,
+      "date": "2020-01-04"
+    },
+    {
+      "id": "65",
+      "name": "loqrohbi",
+      "symbolSize": 19.781059,
+      "x": -1338.9395755,
+      "y": 20,
+      "value": 16.120849,
+      "category": 4,
+      "date": "2020-06-21"
+    },
+    {
+      "id": "66",
+      "name": "pklmajqf",
+      "symbolSize": 15.655561,
+      "x": -1209.5366245,
+      "y": 60,
+      "value": 2.926751,
+      "category": 8,
+      "date": "2020-11-04"
+    },
+    {
+      "id": "67",
+      "name": "iwavmpzr",
+      "symbolSize": 17.98565,
+      "x": -1179.283442,
+      "y": 20,
+      "value": 9.433116,
+      "category": 4,
+      "date": "2020-12-01"
+    },
+    {
+      "id": "68",
+      "name": "ckhefzbb",
+      "symbolSize": 19.645535,
+      "x": -1304.929114,
+      "y": 140,
+      "value": 22.141772,
+      "category": 5,
+      "date": "2020-07-22"
+    },
+    {
+      "id": "69",
+      "name": "gcmsrwpn",
+      "symbolSize": 7.532195,
+      "x": -1349.127232,
+      "y": 120,
+      "value": 35.745536,
+      "category": 0,
+      "date": "2020-06-01"
+    },
+    {
+      "id": "70",
+      "name": "lgbhajxc",
+      "symbolSize": 5.813182,
+      "x": -1441.314586,
+      "y": 60,
+      "value": 45.370828,
+      "category": 8,
+      "date": "2020-02-25"
+    },
+    {
+      "id": "71",
+      "name": "exehjhdj",
+      "symbolSize": 15.474603,
+      "x": -1375.4449935,
+      "y": 100,
+      "value": 11.110013,
+      "category": 7,
+      "date": "2020-05-18"
+    },
+    {
+      "id": "72",
+      "name": "rwldtkgg",
+      "symbolSize": 12.271094,
+      "x": -1400.0781425,
+      "y": 80,
+      "value": 15.843715,
+      "category": 6,
+      "date": "2020-04-21"
+    },
+    {
+      "id": "73",
+      "name": "hawthitc",
+      "symbolSize": 5.216479,
+      "x": -1462.5467445,
+      "y": 40,
+      "value": 30.906511,
+      "category": 3,
+      "date": "2020-02-11"
+    },
+    {
+      "id": "74",
+      "name": "maigcxhm",
+      "symbolSize": 17.396725,
+      "x": -1297.085434,
+      "y": 120,
+      "value": 7.829132,
+      "category": 0,
+      "date": "2020-08-06"
+    },
+    {
+      "id": "75",
+      "name": "bvnqgviu",
+      "symbolSize": 9.451881,
+      "x": -1487.217161,
+      "y": 120,
+      "value": 17.565678,
+      "category": 0,
+      "date": "2020-01-24"
+    },
+    {
+      "id": "76",
+      "name": "pvqckdog",
+      "symbolSize": 7.12936,
+      "x": -1311.8742925,
+      "y": 160,
+      "value": 32.251415,
+      "category": 2,
+      "date": "2020-07-10"
+    },
+    {
+      "id": "77",
+      "name": "ougmbpye",
+      "symbolSize": 13.590217,
+      "x": -1331.174832,
+      "y": 120,
+      "value": 47.650336,
+      "category": 0,
+      "date": "2020-06-13"
+    },
+    {
+      "id": "78",
+      "name": "tyyxfxlq",
+      "symbolSize": 11.842948,
+      "x": -1462.8253595,
+      "y": 80,
+      "value": 20.349281,
+      "category": 6,
+      "date": "2020-02-16"
+    },
+    {
+      "id": "79",
+      "name": "ystuebzi",
+      "symbolSize": 7.711495,
+      "x": -1418.551831,
+      "y": 20,
+      "value": 30.896338,
+      "category": 4,
+      "date": "2020-03-26"
+    },
+    {
+      "id": "80",
+      "name": "bwtfaxxo",
+      "symbolSize": 9.47879,
+      "x": -1480.341782,
+      "y": 140,
+      "value": 35.316436,
+      "category": 5,
+      "date": "2020-01-22"
+    },
+    {
+      "id": "81",
+      "name": "owemvokc",
+      "symbolSize": 2.169282,
+      "x": -1313.8221895,
+      "y": 80,
+      "value": 34.355621,
+      "category": 6,
+      "date": "2020-07-07"
+    },
+    {
+      "id": "82",
+      "name": "bhzcomkp",
+      "symbolSize": 2.565712,
+      "x": -1346.194989,
+      "y": 0,
+      "value": 27.610022,
+      "category": 1,
+      "date": "2020-06-08"
+    },
+    {
+      "id": "83",
+      "name": "ilonhebl",
+      "symbolSize": 6.927064,
+      "x": -1262.1538245,
+      "y": 140,
+      "value": 23.692351,
+      "category": 5,
+      "date": "2020-09-02"
+    },
+    {
+      "id": "84",
+      "name": "sbesgbdh",
+      "symbolSize": 6.958154,
+      "x": -1198.6255015,
+      "y": 40,
+      "value": 40.748997,
+      "category": 3,
+      "date": "2020-10-27"
+    },
+    {
+      "id": "85",
+      "name": "vdfosewa",
+      "symbolSize": 6.864037,
+      "x": -1309.154315,
+      "y": 40,
+      "value": 31.69137,
+      "category": 3,
+      "date": "2020-07-13"
+    },
+    {
+      "id": "86",
+      "name": "jnbovtxq",
+      "symbolSize": 15.414016,
+      "x": -1288.839272,
+      "y": 20,
+      "value": 36.321456,
+      "category": 4,
+      "date": "2020-07-31"
+    },
+    {
+      "id": "87",
+      "name": "jtpxbqpm",
+      "symbolSize": 14.109657,
+      "x": -1323.2224175,
+      "y": 100,
+      "value": 47.555165,
+      "category": 7,
+      "date": "2020-06-21"
+    },
+    {
+      "id": "88",
+      "name": "qgaqbhbx",
+      "symbolSize": 2.42084,
+      "x": -1470.127699,
+      "y": 0,
+      "value": 27.744602,
+      "category": 1,
+      "date": "2020-02-05"
+    },
+    {
+      "id": "89",
+      "name": "rzcfacby",
+      "symbolSize": 9.066573,
+      "x": -1211.2979405,
+      "y": 0,
+      "value": 25.404119,
+      "category": 1,
+      "date": "2020-10-22"
+    },
+    {
+      "id": "90",
+      "name": "jqwslafa",
+      "symbolSize": 3.170134,
+      "x": -1357.266964,
+      "y": 40,
+      "value": 11.466072,
+      "category": 3,
+      "date": "2020-06-05"
+    },
+    {
+      "id": "91",
+      "name": "ymqogwnu",
+      "symbolSize": 1.403577,
+      "x": -1208.0263635,
+      "y": 140,
+      "value": 1.947273,
+      "category": 5,
+      "date": "2020-11-06"
+    },
+    {
+      "id": "92",
+      "name": "ammetnwk",
+      "symbolSize": 15.956953,
+      "x": -1305.1894665,
+      "y": 0,
+      "value": 9.621067,
+      "category": 1,
+      "date": "2020-07-28"
+    },
+    {
+      "id": "93",
+      "name": "uoqugbaf",
+      "symbolSize": 14.489986,
+      "x": -1480.9440495,
+      "y": 60,
+      "value": 6.111901,
+      "category": 8,
+      "date": "2020-02-05"
+    },
+    {
+      "id": "94",
+      "name": "moesejut",
+      "symbolSize": 2.574046,
+      "x": -1249.2503595,
+      "y": 100,
+      "value": 21.499281,
+      "category": 7,
+      "date": "2020-09-16"
+    },
+    {
+      "id": "95",
+      "name": "uizhlkmz",
+      "symbolSize": 19.836995,
+      "x": -1256.558997,
+      "y": 120,
+      "value": 22.882006,
+      "category": 0,
+      "date": "2020-09-08"
+    },
+    {
+      "id": "96",
+      "name": "ocgxhjqu",
+      "symbolSize": 1.504512,
+      "x": -1505.5778895,
+      "y": 20,
+      "value": 22.844221,
+      "category": 4,
+      "date": "2020-01-03"
+    },
+    {
+      "id": "97",
+      "name": "wwgyjzgb",
+      "symbolSize": 15.256484,
+      "x": -1362.709009,
+      "y": 100,
+      "value": 20.581982,
+      "category": 7,
+      "date": "2020-05-26"
+    },
+    {
+      "id": "98",
+      "name": "mizighsk",
+      "symbolSize": 13.609063,
+      "x": -1308.4895185,
+      "y": 140,
+      "value": 41.020963,
+      "category": 5,
+      "date": "2020-07-09"
+    },
+    {
+      "id": "99",
+      "name": "wozcinqr",
+      "symbolSize": 18.646533,
+      "x": -1248.2045375,
+      "y": 40,
+      "value": 41.590925,
+      "category": 3,
+      "date": "2020-09-07"
+    }
+  ],
+  "links": [
+    {
+      "source": "5",
+      "target": "65"
+    },
+    {
+      "source": "19",
+      "target": "64"
+    },
+    {
+      "source": "98",
+      "target": "84"
+    },
+    {
+      "source": "63",
+      "target": "61"
+    },
+    {
+      "source": "31",
+      "target": "72"
+    },
+    {
+      "source": "17",
+      "target": "1"
+    },
+    {
+      "source": "87",
+      "target": "1"
+    },
+    {
+      "source": "82",
+      "target": "27"
+    },
+    {
+      "source": "3",
+      "target": "97"
+    },
+    {
+      "source": "48",
+      "target": "76"
+    },
+    {
+      "source": "29",
+      "target": "0"
+    },
+    {
+      "source": "40",
+      "target": "50"
+    },
+    {
+      "source": "47",
+      "target": "30"
+    },
+    {
+      "source": "34",
+      "target": "99"
+    },
+    {
+      "source": "63",
+      "target": "15"
+    },
+    {
+      "source": "84",
+      "target": "76"
+    },
+    {
+      "source": "10",
+      "target": "69"
+    },
+    {
+      "source": "8",
+      "target": "17"
+    },
+    {
+      "source": "51",
+      "target": "7"
+    },
+    {
+      "source": "11",
+      "target": "90"
+    },
+    {
+      "source": "53",
+      "target": "77"
+    },
+    {
+      "source": "86",
+      "target": "24"
+    },
+    {
+      "source": "94",
+      "target": "58"
+    },
+    {
+      "source": "70",
+      "target": "37"
+    },
+    {
+      "source": "98",
+      "target": "30"
+    },
+    {
+      "source": "30",
+      "target": "98"
+    },
+    {
+      "source": "71",
+      "target": "47"
+    },
+    {
+      "source": "95",
+      "target": "55"
+    },
+    {
+      "source": "20",
+      "target": "7"
+    },
+    {
+      "source": "15",
+      "target": "9"
+    },
+    {
+      "source": "89",
+      "target": "62"
+    },
+    {
+      "source": "51",
+      "target": "45"
+    },
+    {
+      "source": "54",
+      "target": "12"
+    },
+    {
+      "source": "79",
+      "target": "41"
+    },
+    {
+      "source": "52",
+      "target": "18"
+    },
+    {
+      "source": "35",
+      "target": "31"
+    },
+    {
+      "source": "57",
+      "target": "24"
+    },
+    {
+      "source": "6",
+      "target": "63"
+    },
+    {
+      "source": "64",
+      "target": "52"
+    },
+    {
+      "source": "95",
+      "target": "58"
+    },
+    {
+      "source": "60",
+      "target": "3"
+    },
+    {
+      "source": "99",
+      "target": "47"
+    },
+    {
+      "source": "98",
+      "target": "36"
+    },
+    {
+      "source": "27",
+      "target": "58"
+    },
+    {
+      "source": "89",
+      "target": "92"
+    },
+    {
+      "source": "32",
+      "target": "40"
+    },
+    {
+      "source": "20",
+      "target": "55"
+    },
+    {
+      "source": "64",
+      "target": "70"
+    },
+    {
+      "source": "73",
+      "target": "81"
+    },
+    {
+      "source": "54",
+      "target": "77"
+    },
+    {
+      "source": "57",
+      "target": "32"
+    },
+    {
+      "source": "99",
+      "target": "0"
+    },
+    {
+      "source": "32",
+      "target": "91"
+    },
+    {
+      "source": "34",
+      "target": "37"
+    },
+    {
+      "source": "67",
+      "target": "65"
+    },
+    {
+      "source": "9",
+      "target": "65"
+    },
+    {
+      "source": "64",
+      "target": "29"
+    },
+    {
+      "source": "96",
+      "target": "15"
+    },
+    {
+      "source": "66",
+      "target": "14"
+    },
+    {
+      "source": "9",
+      "target": "14"
+    },
+    {
+      "source": "11",
+      "target": "84"
+    },
+    {
+      "source": "15",
+      "target": "18"
+    },
+    {
+      "source": "84",
+      "target": "15"
+    },
+    {
+      "source": "5",
+      "target": "79"
+    },
+    {
+      "source": "32",
+      "target": "0"
+    },
+    {
+      "source": "42",
+      "target": "16"
+    },
+    {
+      "source": "78",
+      "target": "91"
+    },
+    {
+      "source": "36",
+      "target": "76"
+    },
+    {
+      "source": "76",
+      "target": "50"
+    },
+    {
+      "source": "70",
+      "target": "45"
+    },
+    {
+      "source": "97",
+      "target": "16"
+    },
+    {
+      "source": "32",
+      "target": "62"
+    },
+    {
+      "source": "68",
+      "target": "67"
+    },
+    {
+      "source": "11",
+      "target": "86"
+    },
+    {
+      "source": "41",
+      "target": "84"
+    },
+    {
+      "source": "49",
+      "target": "39"
+    },
+    {
+      "source": "36",
+      "target": "6"
+    },
+    {
+      "source": "57",
+      "target": "9"
+    },
+    {
+      "source": "52",
+      "target": "71"
+    },
+    {
+      "source": "28",
+      "target": "91"
+    },
+    {
+      "source": "6",
+      "target": "24"
+    },
+    {
+      "source": "46",
+      "target": "11"
+    },
+    {
+      "source": "75",
+      "target": "46"
+    },
+    {
+      "source": "62",
+      "target": "45"
+    },
+    {
+      "source": "80",
+      "target": "20"
+    },
+    {
+      "source": "50",
+      "target": "20"
+    },
+    {
+      "source": "69",
+      "target": "23"
+    },
+    {
+      "source": "50",
+      "target": "11"
+    },
+    {
+      "source": "89",
+      "target": "91"
+    },
+    {
+      "source": "39",
+      "target": "67"
+    },
+    {
+      "source": "57",
+      "target": "67"
+    },
+    {
+      "source": "27",
+      "target": "31"
+    },
+    {
+      "source": "68",
+      "target": "30"
+    },
+    {
+      "source": "18",
+      "target": "11"
+    },
+    {
+      "source": "57",
+      "target": "47"
+    },
+    {
+      "source": "56",
+      "target": "48"
+    },
+    {
+      "source": "39",
+      "target": "19"
+    },
+    {
+      "source": "41",
+      "target": "33"
+    },
+    {
+      "source": "44",
+      "target": "34"
+    },
+    {
+      "source": "84",
+      "target": "46"
+    }
+  ],
+  "categories": [
+    {
+      "name": "A"
+    },
+    {
+      "name": "B"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "D"
+    },
+    {
+      "name": "E"
+    },
+    {
+      "name": "F"
+    },
+    {
+      "name": "G"
+    },
+    {
+      "name": "H"
+    },
+    {
+      "name": "I"
+    }
+  ]
+}
